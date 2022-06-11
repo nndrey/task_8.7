@@ -1,0 +1,15 @@
+body {
+    background-image: url(img/vopros.jpg);
+}
+.game-card {
+    height: 100vh;
+    font-family:fantasy;
+}
+.card {
+    font-size: 64px;
+    font-weight: 500;
+    background-color: mintcream;
+}
+.m-0 {
+    color: darkcyan;
+}
